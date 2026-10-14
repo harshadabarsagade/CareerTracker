@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "https://harshadabarsagade-careertracker.onrender.com/api/internships";
+const API = "https://careertracker-ba6g.onrender.com/api/internships";
 
 const initialForm = {
   companyName: "",
